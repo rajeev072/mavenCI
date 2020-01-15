@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Demo Test Project for CI to test branch" );
+        System.out.println( "Demo Test Project for CI to test branch not in master" );
     }
 }
